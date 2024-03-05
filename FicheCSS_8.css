@@ -1,0 +1,13 @@
+
+.conteneur {
+  border: 1px dotted #666;
+  background-color: tomato;
+}
+
+.conteneur section {
+  border: 1px solid black;
+  border-radius: 1em;
+  background-color: gold;
+  padding: .6em;
+}
+
